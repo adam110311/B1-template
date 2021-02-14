@@ -150,7 +150,9 @@ button{
   color: #000000;
   font-weight: bold;
 }
-
+button:hover {
+  cursor: pointer;
+}
 .payment-option{
   height: 64px;
 }
