@@ -233,6 +233,10 @@ footer{
 .row h2{
   text-shadow:        0 0 0 #FCFCFC,       -1px -1px 0 #FCFCFC,         1px -1px 0 #FCFCFC,       -1px 1px 0 #FCFCFC,       1px 1px 0 #FCFCFC; 
 }
+a{
+  text-decoration: none;
+  color: black;
+}
 
 /*
   help! Het lettertype wordt om een of andere reden niet goed geladen... Misschien heeft het iets met het pad naar de fonts te maken?
