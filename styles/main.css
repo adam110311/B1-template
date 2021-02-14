@@ -271,6 +271,27 @@ a{
   text-decoration: none;
   color: black;
 }
+.mok{
+  border-left: 1px solid #27AE60;
+  margin-left: 410px;
+}
+.mok-yeah{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+}
+.mok-p{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+  align-content: stretch;
+  width: 800px;
+}
 
 /*
   help! Het lettertype wordt om een of andere reden niet goed geladen... Misschien heeft het iets met het pad naar de fonts te maken?
