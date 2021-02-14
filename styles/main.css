@@ -180,6 +180,35 @@ button:hover {
   flex: 1;
 }
 
+.overview{
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+  align-content: stretch;
+}
+
+.aantal-en-prijs{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	align-content: stretch;
+  
+}
+.productwagen{
+  margin-right: 400px;
+}
+.prijs{
+  margin-right: 150px;
+}
+.prijsmeer{
+  margin-left:50px;
+}
+
 footer{
   padding: 1em;
   background: #303030;
